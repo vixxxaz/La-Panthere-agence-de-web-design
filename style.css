@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(235 22 22, .6);
+    color: black;
 }
 
 .d-bloc .a-btn:hover,
@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgb(28 34 208);
 }
 
 .d-bloc .panel button:hover,
@@ -736,7 +736,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #FFF!important;
 }
 
 .portfolio-thumb {
@@ -763,7 +763,7 @@ h4 {
 }
 
 .bgc-white {
-    background-color: #FFFFFF;
+    background-color: #d9edf7;
 }
 
 .bgc-dark-slate-blue {
@@ -771,7 +771,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #a3a0f56e;
+    background-color: #07045de0;
 }
 
 .tc-white {
