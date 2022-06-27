@@ -4,7 +4,7 @@ const purify = require("purify-css")
 let content = ['*.html'];
 
 // Reference of all CSS files from root directory
-let css = ['*.min.css'];
+let css = ['*.css'];
 
 let files = {
 
