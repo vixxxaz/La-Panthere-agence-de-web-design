@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 600;
-    color: #0a0a0a!important;
+    color: #575757!important;
 }
 
 .container {
@@ -753,7 +753,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(20, 13, 68, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
