@@ -1,2 +1,0 @@
-User-agent : *
-sitemap: https::vixxxaz.github.io/La-Panthere-agence-de-web-design/sitemap.xml
