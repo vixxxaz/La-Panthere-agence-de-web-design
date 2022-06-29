@@ -1,0 +1,14 @@
+#Accueil {
+    width: 300px;
+    height: 100px;
+}
+
+.image-resize-mode {
+    width: 150px;
+    height: 150px;
+}
+
+.img-responsive {
+    width: 320px;
+    height: 320px;
+}
