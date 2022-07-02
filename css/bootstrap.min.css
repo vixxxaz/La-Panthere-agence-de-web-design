@@ -237,8 +237,8 @@ th {
         page-break-inside: avoid
     }
     *,
-    :after,
-    :before {
+     :after,
+     :before {
         color: #000!important;
         text-shadow: none!important;
         background: 0 0!important;
@@ -4159,7 +4159,7 @@ tbody.collapse.in {
     overflow-y: auto
 }
 
-@media (max-device-width:480px) and (orientation:landscape) {
+@media (max-width:480px) and (orientation:landscape) {
     .navbar-fixed-bottom .navbar-collapse,
     .navbar-fixed-top .navbar-collapse {
         max-height: 200px
@@ -4497,7 +4497,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
     color: #fff;
     cursor: default;
     background-color: #337ab7;
-    border-color: #337ab7
+    border-color: #1a3955
 }
 
 .pagination>.disabled>a,
