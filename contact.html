@@ -28,7 +28,7 @@
 
     <!-- Analytics -->
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z6YYV7QZGF"></script> -->
+
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -46,7 +46,7 @@
 
 <body>
     <!-- Principal conteneur -->
-    <div class="page-container">
+    <main class="page-container">
 
         <!-- bloc-0 -->
         <div class="bloc bgc-white l-bloc " id="bloc-0">
@@ -69,7 +69,7 @@
 
                         <ul class="site-navigation nav navbar-nav">
                             <li>
-                                <a aria-label="lien vers la page d'accueil" href="index.html">Accueil</a>
+                                <a aria-label="lien vers la page d'accueil" id="index" href="index.html">Accueil</a>
                             </li>
 
                         </ul>
@@ -108,7 +108,7 @@
 
                     <div class="col-sm-6">
 
-                        <form id="form_1" novalidate>
+                        <form id="form_1" novalidate success-msg="Your message has been sent." fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!">
 
                             <div class="form-group">
 
@@ -221,13 +221,13 @@
         <!-- ScrollToTop Button END-->
 
 
-    </div>
+    </main>
 
-    <script async src="./js/jquery-2.1.0.js"></script>
-    <script async src="./js/bootstrap.js"></script>
-    <script async src="./js/blocs.js"></script>
-    <!-- <script src="./js/jqbootstrapValidation.js"></script>
-    <script src="./js/formHandler.js"></script> -->
+    <script src="./js/jquery-2.1.0.js"></script>
+    <script src="./js/bootstrap.js " async></script>
+    <script src="./js/blocs.js" asynch></script>
+    <script src="./js/jqbootstrapValidation.js" defer></script>
+    <script src="./js/formHandler.js" defer></script>
     <!-- Principal conteneur END -->
 
 

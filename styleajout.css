@@ -15,3 +15,11 @@
 .social-color {
     color: black;
 }
+
+#contact:focus {
+    border-bottom: 2px solid orangered;
+}
+
+#index:focus {
+    border-bottom: 2px solid orangered;
+}
