@@ -8,6 +8,11 @@
     height: 150px;
 }
 
+.imgsize {
+    width: 300px;
+    height: 100px;
+}
+
 .citation-color {
     color: black;
 }
