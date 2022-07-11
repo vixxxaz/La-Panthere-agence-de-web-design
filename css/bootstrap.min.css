@@ -3944,7 +3944,7 @@ tbody.collapse.in {
 
 .input-group-addon.input-sm {
     padding: 5px 10px;
-    font-size: 12px;
+    font-size: 14px;
     border-radius: 3px
 }
 
@@ -4534,7 +4534,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 .pagination-sm>li>a,
 .pagination-sm>li>span {
     padding: 5px 10px;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.5
 }
 
@@ -4590,7 +4590,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 
 .badge,
 .progress-bar {
-    font-size: 12px;
+    font-size: 14px;
     text-align: center
 }
 
@@ -5861,7 +5861,7 @@ button.close {
     }
     .form-horizontal .form-group-sm .control-label {
         padding-top: 6px;
-        font-size: 12px
+        font-size: 14px
     }
     .navbar-right .dropdown-menu {
         right: 0;
